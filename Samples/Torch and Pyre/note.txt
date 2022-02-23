@@ -1,0 +1,1 @@
+When it came to Pyre, I took Torch and pitched it down by 25%, but Pyre uses a different "e" sample, because it sounded scratchy.

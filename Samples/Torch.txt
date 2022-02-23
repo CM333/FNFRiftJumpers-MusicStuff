@@ -1,1 +1,0 @@
-Torch's samples were taken from a YT video by Torch himself, called "How to add Character Selection to your Friday Night Funkin' Mod"
